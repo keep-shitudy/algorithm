@@ -1,4 +1,4 @@
-# Algorithm Shitudy
+# algorithm-shitudy
 알고리즘 서터디
 
 <br>
