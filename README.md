@@ -49,5 +49,5 @@ git commit -m "[BOJ] 11111 Hello World / 브론즈5" -m "https://www.acmicpc.net
 ## 👩🏻‍💻🧑🏻‍💻 Members
 |@Jisuniui|@Sehbeom|
 |:-:|:-:|
-|![KakaoTalk_Photo_2022-10-19-02-25-18](https://user-images.githubusercontent.com/82515938/196501780-36bdc6e9-ddcb-4bab-addb-cc22e778aa2c.png)|![KakaoTalk_Photo_2022-10-19-02-22-53](https://user-images.githubusercontent.com/82515938/196501332-7b2e0beb-dc1f-4199-b16e-1c01abb0fab7.png)|
+|<img width = "60%" alt = "Jiisuniui" src = "https://user-images.githubusercontent.com/82515938/196501780-36bdc6e9-ddcb-4bab-addb-cc22e778aa2c.png">|<img width = "60%" alt = "Sehbeom" src = "https://user-images.githubusercontent.com/82515938/196501332-7b2e0beb-dc1f-4199-b16e-1c01abb0fab7.png">|
 |[이지선](https://github.com/Jiisuniui)|[장세범](https://github.com/Sehbeom)|
