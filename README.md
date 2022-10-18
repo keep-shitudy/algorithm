@@ -1,9 +1,9 @@
-# algorithm-shitudy
+# 🌋 algorithm-shitudy
 알고리즘 서터디
 
 <br>
 
-## 참여방법
+## 🐾 참여방법
 - [블로그 참고](https://waytocse.tistory.com/m/59)
 - [깃허브 참고](https://github.com/ellynhan/challenge100-codingtest-study)
 1. 이름 혹은 github ID로 branch를 생성한다.
@@ -14,7 +14,7 @@
 
 <br>
 
-## commit 규칙
+## 📄 commit 규칙
 - commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도
 - description: 문제 주소 (option)
 - 터미널에서 작성법:
@@ -31,7 +31,7 @@ git commit -m "[BOJ] 11111 Hello World / 브론즈5" -m "https://www.acmicpc.net
 
 <br>
 
-## PR규칙
+## 📑 PR규칙
 - PR 제목: 이름 / 주차 / 몇 문제
 - Jisun Lee / 8월 1주차 / 4문제
 - comment는 자유이나 가능하다면, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지,
@@ -39,7 +39,7 @@ git commit -m "[BOJ] 11111 Hello World / 브론즈5" -m "https://www.acmicpc.net
 
 <br>
 
-## 일정표
+## 🗓 일정표
 | |공통1|공통2|@Jiisuniui|@Sehbeom|
 |:-:|:-:|:-:|:-:|:-:|
 |1주차<br>(10.18~10.25)|[[BOJ] 17182 우주 탐사선](https://www.acmicpc.net/problem/17182)|[[PGS] Lv2 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)| | |
